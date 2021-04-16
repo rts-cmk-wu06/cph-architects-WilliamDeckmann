@@ -1,0 +1,11 @@
+/* Page 3 img */
+.page-3__img {height: 275px; margin: 0; background-position: center; background-size: cover;}
+
+/* Page 3 img items */
+.page-3__img_item_1 {background-image: url(/html_cph-architects/assets/materials/hansen/Christiansborg_Holm_1837.jpg);}
+.page-3__img_item_2 {background-image: url(/html_cph-architects/assets/materials/hansen/Christiansborg_Slotskirke_Copenhagen.jpg);}
+
+/* Media query */
+@media(min-width: 376px){
+        .page-3__img {grid-column: 1 / 7; height: 60vw;}
+}

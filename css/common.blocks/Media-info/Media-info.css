@@ -1,0 +1,7 @@
+/* Media info */
+.Media-info {max-width: 178px; display: grid; grid-template-columns: repeat(3, 1fr); justify-self: right;}
+
+/* Media query */
+@media(min-width: 376px){
+    .Media-info {grid-column: 4 / 6;}
+}

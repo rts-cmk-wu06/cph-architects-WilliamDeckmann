@@ -1,0 +1,7 @@
+/* Gallery */
+.Gallery {margin: 21px 11px 21px 11px;}
+
+/* Media query */
+@media(min-width: 376px){
+    .Gallery {grid-column: 2 / 6; margin: 75px 0 75px 0;}
+}

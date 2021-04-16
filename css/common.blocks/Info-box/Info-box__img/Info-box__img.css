@@ -1,0 +1,17 @@
+/* Info box img */
+.Info-box__img {margin: 0; background-position: center; background-size: cover}
+
+/* Info-box items */
+.Info-box_item_1 .Info-box__img {background-image: url(/html_cph-architects/assets/materials/jacobsen/sas.jpg);}
+.Info-box_item_2 .Info-box__img {background-image: url(/html_cph-architects/assets/materials/mehldahl/Jardin_elevation.jpg);}
+.Info-box_item_3 .Info-box__img {background-image: url(/html_cph-architects/assets/materials/nyrop/LAS_Jagtvej.jpg);}
+
+/* Media query */
+@media(min-width: 376px){
+        .Info-box__img {height: 35vw;}
+
+        /* Info-box items */
+        .Info-box_item_2 .Info-box__img {order: 1;}
+        .Info-box_item_3 {grid-template-columns: auto;}
+        .Info-box_item_3 .Info-box__img {height: 60vw;}
+}

@@ -1,0 +1,35 @@
+/* Variables */
+@import url(/html_cph-architects/assets/css/variables/color.variables.css);
+
+/* Mix */
+@import url(/html_cph-architects/assets/css/mix/mix.general/mix.general.css);
+
+/* Body */
+@import url(/html_cph-architects/assets/css/common.blocks/Body/Body.css);
+
+/* Header */
+@import url(/html_cph-architects/assets/css/common.blocks/Header/header.general/header.general.css);
+
+/* Menu */
+@import url(/html_cph-architects/assets/css/common.blocks/Menu/menu.general/menu.general.css);
+
+/* Nav */
+@import url(/html_cph-architects/assets/css/common.blocks/Nav/nav.general.css/nav.general.css);
+
+/* Main */
+@import url(/html_cph-architects/assets/css/common.blocks/Main/main.general/main.general.css);
+
+/* Footer */
+@import url(/html_cph-architects/assets/css/common.blocks/Footer/footer.general.css/footer.general.css);
+
+/* Contact info */
+@import url(/html_cph-architects/assets/css/common.blocks/Contact-info/Contact-info.css);
+
+/* Media info */
+@import url(/html_cph-architects/assets/css/common.blocks/Media-info/Media-info.css);
+
+/* Copyright info */
+@import url(/html_cph-architects/assets/css/common.blocks/Copyright-info/copyright-info.general/copyright-info.general.css);
+
+/* Logo */
+@import url(/html_cph-architects/assets/css/common.blocks/Logo/logo.general.css/logo.general.css);

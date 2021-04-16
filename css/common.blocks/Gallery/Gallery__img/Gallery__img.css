@@ -1,0 +1,21 @@
+/* Gallery img */
+.Gallery__img {height: 28vw; margin: 0; background-position: center; background-size: cover;}
+
+/* Gallery items */
+.Gallery__item_1 .Gallery__img {background-image: url(/html_cph-architects/assets/materials/hansen/Christiansborg_Slotskirke_Copenhagen_entrance.jpg);}
+.Gallery__item_2 .Gallery__img {background-image: url(/html_cph-architects/assets/materials/hansen/domhuset.jpg);}
+.Gallery__item_3 .Gallery__img {background-image: url(/html_cph-architects/assets/materials/hansen/Domkirken3-TNH.jpg);}
+.Gallery__item_4 .Gallery__img {background-image: url(/html_cph-architects/assets/materials/jacobsen/Arne-Jacobsen-Suite-room-606.jpg);}
+.Gallery__item_5 .Gallery__img {background-image: url(/html_cph-architects/assets/materials/jacobsen/livreddertaarn.jpg);}
+.Gallery__item_6 .Gallery__img {background-image: url(/html_cph-architects/assets/materials/jacobsen/NB02.jpg);}
+.Gallery__item_7 .Gallery__img {background-image: url(/html_cph-architects/assets/materials/mehldahl/illu-10a.jpg);}
+.Gallery__item_8 .Gallery__img {background-image: url(/html_cph-architects/assets/materials/mehldahl/Marble_Church_front.jpg);}
+.Gallery__item_9 .Gallery__img {background-image: url(/html_cph-architects/assets/materials/mehldahl/Provestenen2.jpg);}
+.Gallery__item_10 .Gallery__img {background-image: url(/html_cph-architects/assets/materials/nyrop/CopenhagenCityHallFront.jpg);}
+.Gallery__item_11 .Gallery__img {background-image: url(/html_cph-architects/assets/materials/nyrop/gasvaerk.jpg);}
+.Gallery__item_12 .Gallery__img {background-image: url(/html_cph-architects/assets/materials/nyrop/LAS_Jagtvej_nu.jpg);}
+
+/* Media query */
+@media(min-width: 376px){
+    .Gallery__img {height: 14vw;}
+}

@@ -1,0 +1,3 @@
+/* Menu input */
+.Menu__input {display: none;}
+.Menu__input[type="checkbox"]:checked ~ .Nav_style_mobile {display: block;}

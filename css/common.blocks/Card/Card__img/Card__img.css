@@ -1,0 +1,7 @@
+/* card img */
+.Card__img {margin: 0; background-position: center; background-size: cover; background-repeat: no-repeat;}
+
+/* Media query */
+@media(min-width: 376px){
+        .Card__img {grid-column: 1 / 2; height: 25vw;}
+}

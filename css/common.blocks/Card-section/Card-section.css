@@ -1,0 +1,7 @@
+/* Card section */
+.Card-section {margin: 0 16px 24px 16px; display: grid; grid-row-gap: 24px;}
+
+/* Media query */
+@media(min-width: 376px){
+    .Card-section {margin: 0 0 32px 0; grid-column: 2 / 6;}
+}

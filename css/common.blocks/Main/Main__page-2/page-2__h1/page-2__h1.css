@@ -1,0 +1,7 @@
+/* Page 2 h1 */
+.page-2__h1 {margin: 10px 16px 0 16px;}
+
+/* Media query */
+@media(min-width: 376px){
+    .page-2__h1 {margin: 46px 0 0 0; grid-column: 2 / 6;}
+}

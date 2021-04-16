@@ -1,0 +1,5 @@
+/* Info box article */
+.Info-box__article {padding: 22px 20% 25px 20%; display: flex; align-items: center;}
+
+/* Info-box items */
+.Info-box_item_3 .Info-box__article {padding: 101px 20% 101px 20%;}

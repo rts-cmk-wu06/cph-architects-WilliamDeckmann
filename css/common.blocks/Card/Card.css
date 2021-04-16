@@ -1,0 +1,13 @@
+/* Card */
+.Card {display: grid; grid-template-columns: 35% auto;}
+
+/* Card items */
+.Card_item_1 .Card__img {background-image: url(/html_cph-architects/assets/materials/hansen/cfhansen.jpg);}
+.Card_item_2 .Card__img {background-image: url(/html_cph-architects/assets/materials/jacobsen/Arne_Jacobsen_photo.jpg);}
+.Card_item_3 .Card__img {background-image: url(/html_cph-architects/assets/materials/mehldahl/Ferdinand_Meldahl_1827-1908.jpg);}
+.Card_item_4 .Card__img {background-image: url(/html_cph-architects/assets/materials/nyrop/Martin_Nyrop_580.jpg);}
+
+/* Media query */
+@media(min-width: 376px){
+    .Card {display: grid; grid-template-columns: repeat(4, 1fr);}
+}

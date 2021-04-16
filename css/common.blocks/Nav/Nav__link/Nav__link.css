@@ -1,0 +1,7 @@
+/* Nav link */
+.Nav__link {text-decoration: none;}
+
+/* Media query */
+@media(min-width: 376px){
+    .Nav__link {margin-bottom: 6px; text-decoration:underline;}
+}

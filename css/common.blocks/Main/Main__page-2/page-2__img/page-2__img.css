@@ -1,0 +1,10 @@
+/* Page 2 img */
+.page-2__img {height: 275px; margin: 0; background-position: center; background-size: cover;}
+
+/* Page 2 img items */
+.page-2__img_item_1 {background-image: url(/html_cph-architects/assets/materials/hansen/Rundetårn_view_2_new_version.jpg);}
+
+/* Media query */
+@media(min-width: 376px){
+        .page-2__img {grid-column: 1 / 7; height: 60vw;}
+}

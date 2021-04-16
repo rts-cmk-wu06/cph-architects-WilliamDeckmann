@@ -1,0 +1,7 @@
+/* Copyright info */
+.Copyright-info {grid-column: 1 / 3;}
+
+/* Media query */
+@media(min-width: 376px){
+        .Copyright-info {grid-column: 1 / 7;}
+}

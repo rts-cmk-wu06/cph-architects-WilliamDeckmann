@@ -1,0 +1,7 @@
+/* Nav style: mobile */
+.Nav_style_mobile {display: none;}
+
+/* Media query */
+@media(min-width: 376px){
+    .Nav_style_mobile {display: none;}
+}

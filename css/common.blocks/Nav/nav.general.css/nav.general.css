@@ -1,0 +1,9 @@
+/* Nav - general */
+@import url(/html_cph-architects/assets/css/common.blocks/Nav/Nav.css);
+@import url(/html_cph-architects/assets/css/common.blocks/Nav/Nav__list/Nav__list.css);
+@import url(/html_cph-architects/assets/css/common.blocks/Nav/Nav__item/Nav__item.css);
+@import url(/html_cph-architects/assets/css/common.blocks/Nav/Nav__link/Nav__link.css);
+@import url(/html_cph-architects/assets/css/common.blocks/Nav/Nav__link/Nav__link_size_big/Nav__link_size_big.css);
+@import url(/html_cph-architects/assets/css/common.blocks/Nav/Nav_theme_off-black/Nav_theme_off-black.css);
+@import url(/html_cph-architects/assets/css/common.blocks/Nav/Nav_style_mobile/Nav_style_mobile.css);
+@import url(/html_cph-architects/assets/css/common.blocks/Nav/Nav_style_desktop/Nav_style_desktop.css);

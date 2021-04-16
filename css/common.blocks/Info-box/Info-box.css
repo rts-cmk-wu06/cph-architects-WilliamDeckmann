@@ -1,0 +1,7 @@
+/* Info-box */
+.Info-box {display: grid; grid-template-rows: 308px auto;}
+
+/* Media query */
+@media(min-width: 376px){
+    .Info-box {display: grid; grid-template-rows: auto; grid-template-columns: 1fr 1fr;}
+}

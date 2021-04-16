@@ -1,0 +1,7 @@
+/* Contact info */
+.Contact-info {max-width: 178px;}
+
+/* Media query */
+@media(min-width: 376px){
+    .Contact-info {grid-column: 2 / 4;}
+}

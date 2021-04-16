@@ -1,0 +1,6 @@
+/* Page-3 img style: Mobile */
+
+/* Media query */
+@media(min-width: 376px){
+    .page-3__img_style_mobile {display: none;}
+}

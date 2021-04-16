@@ -1,0 +1,6 @@
+/* Nav */
+
+/* Media query */
+@media(min-width: 376px){
+    .Nav {grid-column: 4 / 6;}
+}

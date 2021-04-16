@@ -1,0 +1,7 @@
+/* Info-box section */
+.Info-box-section {margin: 0px 16px 24px 16px; display: grid; grid-row-gap: 24px;}
+
+/* Media query */
+@media(min-width: 376px){
+    .Info-box-section {grid-column: 1 / 7; margin: 0; grid-row-gap: 52px;}
+}

@@ -1,0 +1,7 @@
+/* Card article */
+.Card__article {padding: 16px;}
+
+/* Media query */
+@media(min-width: 376px){
+    .Card__article {padding: 16px 21px 16px 16px; grid-column: 2 / 5;}
+}

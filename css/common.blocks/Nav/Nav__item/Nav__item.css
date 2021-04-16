@@ -1,0 +1,7 @@
+/* Nav item */
+.Nav__item {padding: 24px 0 24px 0; border-bottom: solid 1px var(--off-white); text-align: center;}
+
+/* Media query */
+@media(min-width: 376px){
+    .Nav__item {height: 48px; width: fit-content; padding: 0; border-bottom: none; display: grid; align-items: flex-end;}
+}

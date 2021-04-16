@@ -1,0 +1,8 @@
+/* Menu logo */
+.Menu__logo {height: 42px; width: 42px; margin-left: 8px; background-image: url(/html_cph-architects/assets/logos/menu-logo.png);}
+.Menu__logo:hover {cursor: pointer;}
+
+/* Media query */
+@media(min-width: 376px){
+    .Menu__logo {display: none;}
+}

@@ -1,0 +1,2 @@
+/* Gallery list */
+.Gallery__list {padding: 0; margin: 0; display: grid; grid-template-rows: auto; grid-template-columns: 1fr 1fr 1fr; grid-row-gap: 20px; grid-column-gap: 16px; list-style: none;}

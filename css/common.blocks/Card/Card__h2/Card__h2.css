@@ -1,0 +1,7 @@
+/* Card h2 */
+.Card__h2 {margin-bottom: 13px;}
+
+/* Media query */
+@media(min-width: 376px){
+    .Card__h2 {margin-bottom: 20px;}
+}

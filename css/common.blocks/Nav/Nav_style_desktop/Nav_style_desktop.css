@@ -1,0 +1,7 @@
+/* Nav style: desktop */
+.Nav_style_desktop {display: none;}
+
+/* Media query */
+@media(min-width: 376px){
+    .Nav_style_desktop {display: block;}
+}

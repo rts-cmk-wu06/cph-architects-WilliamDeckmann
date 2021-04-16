@@ -1,0 +1,7 @@
+/* Footer */
+.Footer {padding: 48px 16px 14px 16px; display: grid; grid-template-columns: repeat(2, 1fr); grid-row-gap: 21px;}
+
+/* Media query */
+@media(min-width: 376px){
+    .Footer {padding: 48px 0 14px 0; grid-template-columns: repeat(6, 1fr);}
+}

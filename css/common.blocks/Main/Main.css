@@ -1,0 +1,7 @@
+/* Main */
+.Main {display: grid; grid-template-columns: auto;}
+
+/* Media query */
+@media(min-width: 376px){
+    .Main {grid-template-columns: repeat(6, 1fr);}
+}

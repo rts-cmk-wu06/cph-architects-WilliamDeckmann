@@ -1,0 +1,7 @@
+/* Page 2 article */
+.page-2__article {margin: 22px 16px 21px 16px;}
+
+/* Media query */
+@media(min-width: 376px){
+    .page-2__article {margin: 14px 0px 55px 0px; grid-column: 2 / 6;}
+}
